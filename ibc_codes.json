@@ -3,17 +3,19 @@
  "counties": {
   "GA|Locust Grove": {
    "county": "Henry County",
-   "note": "Henry County adopts the Georgia state codes by reference, so the mandatory state minimum governs. The City of Locust Grove's own page still lists 2018 editions (Jan 1, 2020) \u2014 that page is out of date; the law in force is the state code.",
-   "source": "Henry County Unified Land Development Code \u00a71.07.06 (adopts the state codes, incl. future editions, by reference)",
+   "note": "Henry County adopts the Georgia state codes by reference, so the mandatory state minimum governs. The City of Locust Grove's own page still lists 2018 editions (Jan 1, 2020) — that page is out of date; the law in force is the state code.",
+   "source": "Henry County Unified Land Development Code §1.07.06 (adopts the state codes, incl. future editions, by reference)",
    "state": "GA",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://dca.georgia.gov/document/document/ibc-2026-amendment-packet-2024-edition/download"
   },
   "SC|Spartanburg": {
    "county": "Spartanburg County",
-   "note": "Follows the South Carolina statewide code \u2014 mandatory in Spartanburg County; the county cannot adopt a different edition.",
-   "source": "SC Building Codes Council \u2014 2024 Code Adoption Notice (Aug 26, 2025)",
+   "note": "Follows the South Carolina statewide code — mandatory in Spartanburg County; the county cannot adopt a different edition.",
+   "source": "SC Building Codes Council — 2024 Code Adoption Notice (Aug 26, 2025)",
    "state": "SC",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://www.llr.sc.gov/bcc/"
   }
  },
  "dataset": "tasklist-ibc",
@@ -24,8 +26,9 @@
    "name": "Alaska Building Code (13 AAC 50.020)",
    "note": "Adopted by the State Fire Marshal for commercial, industrial, institutional, public and 4+ unit residential buildings.",
    "since": "2022-10-28",
-   "source": "AK Dept. of Public Safety, Div. of Fire and Life Safety \u2014 13 AAC 50.020",
-   "verified": "2026-11-13"
+   "source": "AK Dept. of Public Safety, Div. of Fire and Life Safety — 13 AAC 50.020",
+   "verified": "2026-11-13",
+   "source_url": "https://regulations.justia.com/states/alaska/title-13/part-2/chapter-50/section-13-aac-50-020/"
   },
   "AL": {
    "edition": null,
@@ -33,16 +36,18 @@
    "name": null,
    "note": "The state code covers only state property, schools, hotels/motels and theaters; all other buildings follow the city/county code.",
    "since": null,
-   "source": "Alabama Dept. of Finance, Division of Construction Management \u2014 State Building Code",
-   "verified": "2026-11-13"
+   "source": "Alabama Dept. of Finance, Division of Construction Management — State Building Code",
+   "verified": "2026-11-13",
+   "source_url": "https://dcm.alabama.gov/bldg_code.aspx"
   },
   "AR": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Arkansas Fire Prevention Code, Vol. II",
    "since": "2023-01-01",
-   "source": "AR State Fire Marshal \u2014 2021 Arkansas Fire Prevention Code Rules",
-   "verified": "2026-11-13"
+   "source": "AR State Fire Marshal — 2021 Arkansas Fire Prevention Code Rules",
+   "verified": "2026-11-13",
+   "source_url": "https://labor.arkansas.gov/licensing/arkansas-contractors-licensing-board/building-codes/"
   },
   "AZ": {
    "edition": null,
@@ -50,8 +55,9 @@
    "name": null,
    "note": "Arizona has no statewide building code; each city/county adopts its own edition.",
    "since": null,
-   "source": "Arizona Legislature \u2014 A.R.S. \u00a734-461, \u00a711-861",
-   "verified": "2026-11-13"
+   "source": "Arizona Legislature — A.R.S. §34-461, §11-861",
+   "verified": "2026-11-13",
+   "source_url": "https://www.azleg.gov/legtext/53leg/1R/laws/0258.htm"
   },
   "CA": {
    "edition": 2024,
@@ -59,8 +65,9 @@
    "name": "2025 California Building Code (Title 24, Part 2)",
    "note": "California's own code, built on the 2024 IBC with California amendments.",
    "since": "2026-01-01",
-   "source": "CA Building Standards Commission \u2014 code history + Information Bulletin 26-01",
-   "verified": "2026-11-13"
+   "source": "CA Building Standards Commission — code history + Information Bulletin 26-01",
+   "verified": "2026-11-13",
+   "source_url": "https://www.dgs.ca.gov/BSC/About/History-of-the-California-Building-Standards-Commission"
   },
   "CO": {
    "edition": null,
@@ -68,8 +75,9 @@
    "name": null,
    "note": "Colorado has no statewide building code; adoption is by city/county.",
    "since": null,
-   "source": "Colorado Office of the State Architect \u2014 Building Codes",
-   "verified": "2026-11-13"
+   "source": "Colorado Office of the State Architect — Building Codes",
+   "verified": "2026-11-13",
+   "source_url": "https://osa.colorado.gov/building-codes"
   },
   "CT": {
    "edition": 2021,
@@ -77,15 +85,17 @@
    "name": "2022 Connecticut State Building Code",
    "since": "2022-10-01",
    "source": "CT Dept. of Administrative Services, Office of the State Building Inspector",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://portal.ct.gov/DAS/Office-of-State-Building-Inspector/History-of-the-Connecticut-State-Building-Code"
   },
   "DC": {
    "edition": 2015,
    "mechanism": "statewide",
    "name": "2017 DC Construction Codes",
    "since": "2020-05-29",
-   "source": "DC Department of Buildings \u2014 DC Construction Codes",
-   "verified": "2026-11-13"
+   "source": "DC Department of Buildings — DC Construction Codes",
+   "verified": "2026-11-13",
+   "source_url": "https://dob.dc.gov/page/dc-construction-codes"
   },
   "DE": {
    "edition": null,
@@ -94,7 +104,8 @@
    "note": "Building-code authority sits with Delaware's three counties and municipalities.",
    "since": null,
    "source": "Delaware Code, Title 16 Ch. 76",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://delcode.delaware.gov/title16/c076/index.html"
   },
   "FL": {
    "edition": 2021,
@@ -106,28 +117,31 @@
     "name": "Florida Building Code, 9th Edition (2026)",
     "status": "scheduled"
    },
-   "note": "The 9th Edition's adopting rule was still in rulemaking when this was verified \u2014 its date is scheduled, not final.",
+   "note": "The 9th Edition's adopting rule was still in rulemaking when this was verified — its date is scheduled, not final.",
    "since": "2023-12-31",
-   "source": "Florida Building Commission \u2014 2026 FBC Workplan; Rule 61G20-1.001",
-   "verified": "2026-11-13"
+   "source": "Florida Building Commission — 2026 FBC Workplan; Rule 61G20-1.001",
+   "verified": "2026-11-13",
+   "source_url": "https://flrules.org/gateway/ruleno.asp?id=61G20-1.001"
   },
   "GA": {
    "edition": 2024,
    "mechanism": "statewide",
    "name": "Georgia State Minimum Standard Building Code",
-   "note": "The Georgia state minimum is mandatory in every Georgia county. A further Georgia Amendments package takes effect Jan 1, 2027 \u2014 it is not an edition change.",
+   "note": "The Georgia state minimum is mandatory in every Georgia county. A further Georgia Amendments package takes effect Jan 1, 2027 — it is not an edition change.",
    "since": "2026-01-01",
-   "source": "Georgia Department of Community Affairs \u2014 Current State Minimum Codes; 2024 IBC Amendment Packet (eff. Jan 1, 2026)",
-   "verified": "2026-11-13"
+   "source": "Georgia Department of Community Affairs — Current State Minimum Codes; 2024 IBC Amendment Packet (eff. Jan 1, 2026)",
+   "verified": "2026-11-13",
+   "source_url": "https://dca.georgia.gov/document/document/ibc-2026-amendment-packet-2024-edition/download"
   },
   "HI": {
    "edition": 2018,
    "mechanism": "statewide",
    "name": "Hawaii State Building Code",
-   "note": "Counties adopt the state code with local amendments under HRS \u00a7107-28.",
+   "note": "Counties adopt the state code with local amendments under HRS §107-28.",
    "since": "2021-04-20",
-   "source": "HI State Building Code Council (DAGS) \u2014 Building Code Rules",
-   "verified": "2026-11-13"
+   "source": "HI State Building Code Council (DAGS) — Building Code Rules",
+   "verified": "2026-11-13",
+   "source_url": "https://ags.hawaii.gov/bcc/building-code-rules/"
   },
   "IA": {
    "edition": 2024,
@@ -135,34 +149,38 @@
    "name": "Iowa State Building Code",
    "note": "Applies per Iowa Code ch. 103A (state-owned/funded and covered jurisdictions); some localities adopt their own code.",
    "since": "2025-09-10",
-   "source": "IA Dept. of Inspections, Appeals & Licensing \u2014 ARC 9474C",
-   "verified": "2026-11-13"
+   "source": "IA Dept. of Inspections, Appeals & Licensing — ARC 9474C",
+   "verified": "2026-11-13",
+   "source_url": "https://www.legis.iowa.gov/docs/aco/arc/9474C.pdf"
   },
   "ID": {
    "edition": 2018,
    "mechanism": "statewide",
    "name": "Idaho Building Code",
    "since": "2021-01-01",
-   "source": "Idaho Building Code Board / DOPL \u2014 IDAPA 24.39.30; Idaho Code \u00a739-4109",
-   "verified": "2026-11-13"
+   "source": "Idaho Building Code Board / DOPL — IDAPA 24.39.30; Idaho Code §39-4109",
+   "verified": "2026-11-13",
+   "source_url": "https://legislature.idaho.gov/statutesrules/idstat/title39/t39ch41/sect39-4109/"
   },
   "IL": {
    "edition": null,
    "mechanism": "local",
    "name": null,
-   "note": "No single statewide edition. Since Jan 1, 2025 state law sets an IBC-stringency floor for local codes, and a state default covers commercial buildings where no local code exists \u2014 the edition enforced on a given job is the local one.",
+   "note": "No single statewide edition. Since Jan 1, 2025 state law sets an IBC-stringency floor for local codes, and a state default covers commercial buildings where no local code exists — the edition enforced on a given job is the local one.",
    "since": null,
-   "source": "Illinois Capital Development Board \u2014 Building Codes and Regulations",
-   "verified": "2026-11-13"
+   "source": "Illinois Capital Development Board — Building Codes and Regulations",
+   "verified": "2026-11-13",
+   "source_url": "https://cdb.illinois.gov/business/codes/buildingcodesregulations"
   },
   "IN": {
    "edition": 2012,
    "mechanism": "statewide",
    "name": "2014 Indiana Building Code",
-   "note": "Built on the 2012 IBC \u2014 the oldest base edition in force in any state.",
+   "note": "Built on the 2012 IBC — the oldest base edition in force in any state.",
    "since": "2014-12-01",
-   "source": "IN DHS, Fire Prevention & Building Safety Commission \u2014 675 IAC 13-2.6",
-   "verified": "2026-11-13"
+   "source": "IN DHS, Fire Prevention & Building Safety Commission — 675 IAC 13-2.6",
+   "verified": "2026-11-13",
+   "source_url": "https://www.in.gov/dhs/boards-and-commissions/fpbsc-rules"
   },
   "KS": {
    "edition": null,
@@ -171,15 +189,17 @@
    "note": "Kansas is a home-rule state; adoption and enforcement are local.",
    "since": null,
    "source": "Kansas Dept. of Administration, OFPM; KS Corporation Commission",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://www.kcc.ks.gov/kansas-energy-office/ks-building-energy-codes"
   },
   "KY": {
    "edition": 2015,
    "mechanism": "statewide",
    "name": "Kentucky Building Code",
    "since": "2019-01-01",
-   "source": "KY Dept. of Housing, Buildings & Construction \u2014 815 KAR 7:120",
-   "verified": "2026-11-13"
+   "source": "KY Dept. of Housing, Buildings & Construction — 815 KAR 7:120",
+   "verified": "2026-11-13",
+   "source_url": "https://dhbc.ky.gov"
   },
   "LA": {
    "edition": 2021,
@@ -190,50 +210,56 @@
     "effective": "2027-01-01",
     "status": "scheduled"
    },
-   "note": "The 2024 adoption was approved as rule language and published as a Notice of Intent (Aug 20, 2026 Louisiana Register); final promulgation had not been located when this was verified \u2014 its date is scheduled, not final.",
+   "note": "The 2024 adoption was approved as rule language and published as a Notice of Intent (Aug 20, 2026 Louisiana Register); final promulgation had not been located when this was verified — its date is scheduled, not final.",
    "since": "2023-01-01",
-   "source": "LA State Uniform Construction Code Council \u2014 LAC Title 17 \u00a7\u00a7101/103",
-   "verified": "2026-11-13"
+   "source": "LA State Uniform Construction Code Council — LAC Title 17 §§101/103",
+   "verified": "2026-11-13",
+   "source_url": "https://www.brla.gov/DocumentCenter/View/24508"
   },
   "MA": {
    "edition": 2021,
    "mechanism": "statewide",
-   "name": "780 CMR \u2014 Massachusetts Building Code, Tenth Edition",
+   "name": "780 CMR — Massachusetts Building Code, Tenth Edition",
    "since": "2024-10-11",
-   "source": "MA Board of Building Regulations & Standards \u2014 Tenth Edition 780 CMR",
-   "verified": "2026-11-13"
+   "source": "MA Board of Building Regulations & Standards — Tenth Edition 780 CMR",
+   "verified": "2026-11-13",
+   "source_url": "https://www.mass.gov/handbook/tenth-edition-of-the-ma-state-building-code-780"
   },
   "MD": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Maryland Building Performance Standards",
    "since": "2023-05-29",
-   "source": "MD Dept. of Labor, Building Codes Administration \u2014 COMAR 09.12.51",
-   "verified": "2026-11-13"
+   "source": "MD Dept. of Labor, Building Codes Administration — COMAR 09.12.51",
+   "verified": "2026-11-13",
+   "source_url": "https://labor.md.gov/labor/build/buildadmin.shtml"
   },
   "ME": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Maine Uniform Building and Energy Code",
    "since": "2025-04-07",
-   "source": "ME Technical Building Codes & Standards Board / State Fire Marshal \u2014 MUBEC",
-   "verified": "2026-11-13"
+   "source": "ME Technical Building Codes & Standards Board / State Fire Marshal — MUBEC",
+   "verified": "2026-11-13",
+   "source_url": "https://www.maine.gov/dps/fmo/"
   },
   "MI": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Michigan Building Code",
    "since": "2025-04-09",
-   "source": "MI LARA, Bureau of Construction Codes \u2014 Part 4 Rules (2022-57 LR)",
-   "verified": "2026-11-13"
+   "source": "MI LARA, Bureau of Construction Codes — Part 4 Rules (2022-57 LR)",
+   "verified": "2026-11-13",
+   "source_url": "https://www.michigan.gov/lara/bureau-list/bcc/rules-acts/codes/code-books"
   },
   "MN": {
    "edition": 2018,
    "mechanism": "statewide",
    "name": "2020 Minnesota Building Code",
    "since": "2020-03-31",
-   "source": "MN Dept. of Labor and Industry \u2014 Minnesota Rules ch. 1305",
-   "verified": "2026-11-13"
+   "source": "MN Dept. of Labor and Industry — Minnesota Rules ch. 1305",
+   "verified": "2026-11-13",
+   "source_url": "http://www.dli.mn.gov/business/codes-and-laws/2020-minnesota-state-building-codes"
   },
   "MO": {
    "edition": null,
@@ -241,8 +267,9 @@
    "name": null,
    "note": "Missouri has no statewide building code at all; adoption is purely local and many rural counties have no code. The state publishes a county-by-county dataset precisely because there is no single answer.",
    "since": null,
-   "source": "Missouri Legislature \u2014 RSMo \u00a767.280 (local adoption authority); State of Missouri Data Portal, county building-code dataset",
-   "verified": "2026-11-13"
+   "source": "Missouri Legislature — RSMo §67.280 (local adoption authority); State of Missouri Data Portal, county building-code dataset",
+   "verified": "2026-11-13",
+   "source_url": "https://revisor.mo.gov/main/OneSection.aspx?section=67.280"
   },
   "MS": {
    "edition": null,
@@ -250,16 +277,18 @@
    "name": null,
    "note": "Localities adopt one of the last three MBCC-adopted editions or opt out; the State Fire Marshal's own adoption covers only state-owned, public-assembly and high-rise buildings. No statewide edition can be stated.",
    "since": null,
-   "source": "Mississippi Insurance Dept. / State Fire Marshal; Miss. Code \u00a717-2-4",
-   "verified": "2026-11-13"
+   "source": "Mississippi Insurance Dept. / State Fire Marshal; Miss. Code §17-2-4",
+   "verified": "2026-11-13",
+   "source_url": "https://www.mid.ms.gov/sfmo/fce/"
   },
   "MT": {
    "edition": 2024,
    "mechanism": "statewide",
    "name": "Montana Building Code",
    "since": "2026-09-26",
-   "source": "MT Dept. of Labor & Industry, Building Codes Program \u2014 Current Codes (ARM Title 24 Ch. 301)",
-   "verified": "2026-11-13"
+   "source": "MT Dept. of Labor & Industry, Building Codes Program — Current Codes (ARM Title 24 Ch. 301)",
+   "verified": "2026-11-13",
+   "source_url": "https://bsd.dli.mt.gov/building-codes-permits/current-codes"
   },
   "NC": {
    "edition": 2015,
@@ -271,26 +300,29 @@
     "name": "2024 North Carolina Building Code",
     "status": "adopted"
    },
-   "note": "The 2024 NC Building Code (2021 IBC base) is formally adopted, but by Session Law 2025-2 it takes effect 12 months after State Fire Marshal certification, which has not occurred. No effective date exists yet \u2014 any date in circulation is unconfirmed.",
+   "note": "The 2024 NC Building Code (2021 IBC base) is formally adopted, but by Session Law 2025-2 it takes effect 12 months after State Fire Marshal certification, which has not occurred. No effective date exists yet — any date in circulation is unconfirmed.",
    "since": "2019-01-01",
-   "source": "NC Office of the State Fire Marshal \u2014 Codes: Current and Past",
-   "verified": "2026-11-13"
+   "source": "NC Office of the State Fire Marshal — Codes: Current and Past",
+   "verified": "2026-11-13",
+   "source_url": "https://www.ncosfm.gov/codes/codes-current-and-past"
   },
   "ND": {
    "edition": 2024,
    "mechanism": "statewide",
    "name": "North Dakota State Building Code",
    "since": "2026-01-01",
-   "source": "ND Dept. of Commerce, Div. of Community Services \u2014 Building Codes",
-   "verified": "2026-11-13"
+   "source": "ND Dept. of Commerce, Div. of Community Services — Building Codes",
+   "verified": "2026-11-13",
+   "source_url": "https://www.commerce.nd.gov/community-services/building-codes"
   },
   "NE": {
    "edition": 2018,
    "mechanism": "statewide",
    "name": "Nebraska State Building Code",
    "since": null,
-   "source": "Nebraska Legislature \u2014 Neb. Rev. Stat. \u00a771-6403",
-   "verified": "2026-11-13"
+   "source": "Nebraska Legislature — Neb. Rev. Stat. §71-6403",
+   "verified": "2026-11-13",
+   "source_url": "https://nebraskalegislature.gov/laws/statutes.php?statute=71-6403"
   },
   "NH": {
    "edition": 2024,
@@ -298,25 +330,28 @@
    "name": "New Hampshire State Building Code",
    "note": "Applicants may elect the prior (2021) code through Dec 31, 2026.",
    "since": "2026-07-01",
-   "source": "NH Building Code Review Board \u2014 RSA 155-A (HB1159, 2026)",
-   "verified": "2026-11-13"
+   "source": "NH Building Code Review Board — RSA 155-A (HB1159, 2026)",
+   "verified": "2026-11-13",
+   "source_url": "https://gc.nh.gov/rsa/html/XII/155-A/155-A-2.htm"
   },
   "NJ": {
    "edition": 2024,
    "mechanism": "statewide",
-   "name": "NJ Uniform Construction Code \u2014 Building Subcode",
+   "name": "NJ Uniform Construction Code — Building Subcode",
    "note": "A prior-code grace period runs to Feb 17, 2027.",
    "since": "2026-08-17",
-   "source": "NJ Dept. of Community Affairs, Div. of Codes & Standards \u2014 Current Construction Codes",
-   "verified": "2026-11-13"
+   "source": "NJ Dept. of Community Affairs, Div. of Codes & Standards — Current Construction Codes",
+   "verified": "2026-11-13",
+   "source_url": "https://www.nj.gov/dca/codes/codreg/current.shtml"
   },
   "NM": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "2021 New Mexico Commercial Building Code",
    "since": "2023-07-14",
-   "source": "NM Regulation & Licensing Dept., Construction Industries Division \u2014 14.7.2 NMAC",
-   "verified": "2026-11-13"
+   "source": "NM Regulation & Licensing Dept., Construction Industries Division — 14.7.2 NMAC",
+   "verified": "2026-11-13",
+   "source_url": "https://www.srca.nm.gov/nmac/nmregister/xxxiv/14.7.2.html"
   },
   "NV": {
    "edition": null,
@@ -324,8 +359,9 @@
    "name": null,
    "note": "Nevada has no general statewide IBC; adoption is local. State pieces (fire marshal references, state buildings) use their own editions.",
    "since": null,
-   "source": "Nevada Legislature \u2014 NAC 477.280-477.281",
-   "verified": "2026-11-13"
+   "source": "Nevada Legislature — NAC 477.280-477.281",
+   "verified": "2026-11-13",
+   "source_url": "https://www.leg.state.nv.us/nac/nac-477.html"
   },
   "NY": {
    "edition": 2024,
@@ -333,25 +369,28 @@
    "name": "2025 Building Code of New York State",
    "note": "New York City has its own separate construction codes.",
    "since": "2025-12-31",
-   "source": "NY Dept. of State / State Fire Prevention & Building Code Council \u2014 2025 Uniform Code",
-   "verified": "2026-11-13"
+   "source": "NY Dept. of State / State Fire Prevention & Building Code Council — 2025 Uniform Code",
+   "verified": "2026-11-13",
+   "source_url": "https://dos.ny.gov/node/13561"
   },
   "OH": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "2024 Ohio Building Code",
-   "note": "Ohio's own code: the 2024 Ohio Building Code is built on the 2021 IBC with Ohio amendments \u2014 the edition in force is the 2021 IBC, not a 2024 IBC.",
+   "note": "Ohio's own code: the 2024 Ohio Building Code is built on the 2021 IBC with Ohio amendments — the edition in force is the 2021 IBC, not a 2024 IBC.",
    "since": "2024-03-01",
-   "source": "Ohio Board of Building Standards \u2014 2024 Ohio Building Code Rules",
-   "verified": "2026-11-13"
+   "source": "Ohio Board of Building Standards — 2024 Ohio Building Code Rules",
+   "verified": "2026-11-13",
+   "source_url": "https://dam.assets.ohio.gov/image/upload/com.ohio.gov/documents/2024%20Ohio%20Building%20Code%20Rules%20Effective%20March%201%2C%202024.pdf"
   },
   "OK": {
    "edition": 2024,
    "mechanism": "statewide",
    "name": "Oklahoma Uniform Building Code",
    "since": "2026-09-14",
-   "source": "OK Uniform Building Code Commission \u2014 IBC Adoptions; OAC 748:20-2-1",
-   "verified": "2026-11-13"
+   "source": "OK Uniform Building Code Commission — IBC Adoptions; OAC 748:20-2-1",
+   "verified": "2026-11-13",
+   "source_url": "https://oklahoma.gov/oubcc/codes-and-rules/international-building-code-adoptions.html"
   },
   "OR": {
    "edition": 2024,
@@ -359,24 +398,27 @@
    "name": "2025 Oregon Structural Specialty Code",
    "note": "Oregon's own code, built on the 2024 IBC. The 2022 code could be used during phase-in until Apr 1, 2026.",
    "since": "2025-10-01",
-   "source": "Oregon Building Codes Division \u2014 Commercial Structures / adopted codes",
-   "verified": "2026-11-13"
+   "source": "Oregon Building Codes Division — Commercial Structures / adopted codes",
+   "verified": "2026-11-13",
+   "source_url": "https://www.oregon.gov/bcd/codes-stand/pages/commercial-structures.aspx"
   },
   "PA": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Pennsylvania Uniform Construction Code",
    "since": "2026-01-01",
-   "source": "PA Dept. of Labor & Industry \u2014 UCC; Review & Advisory Council 2021 ICC Adoption Final Report",
-   "verified": "2026-11-13"
+   "source": "PA Dept. of Labor & Industry — UCC; Review & Advisory Council 2021 ICC Adoption Final Report",
+   "verified": "2026-11-13",
+   "source_url": "https://www.pa.gov/agencies/dli/programs-services/labor-management-relations/bureau-of-occupational-and-industrial-safety/uniform-construction-code-home"
   },
   "RI": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Rhode Island State Building Code (RISBC-1)",
    "since": "2025-12-01",
-   "source": "RI Building Code Commission \u2014 RISBC-1 (510-RICR-00-00-1)",
-   "verified": "2026-11-13"
+   "source": "RI Building Code Commission — RISBC-1 (510-RICR-00-00-1)",
+   "verified": "2026-11-13",
+   "source_url": "https://rules.sos.ri.gov/regulations/part/510-00-00-1"
   },
   "SC": {
    "edition": 2021,
@@ -390,8 +432,9 @@
    },
    "note": "South Carolina codes are mandatory in every county and municipality; local jurisdictions cannot adopt a different edition, and only Council-approved modifications are valid.",
    "since": "2023-01-01",
-   "source": "SC Building Codes Council (LLR) \u2014 Building Codes in Effect",
-   "verified": "2026-11-13"
+   "source": "SC Building Codes Council (LLR) — Building Codes in Effect",
+   "verified": "2026-11-13",
+   "source_url": "https://www.llr.sc.gov/bcc/"
   },
   "SD": {
    "edition": 2024,
@@ -399,42 +442,47 @@
    "name": "South Dakota building code standard (SDCL 11-10)",
    "note": "A statutory standard, not a state-administered code: local ordinances for non-residential buildings must comply with the 2024 IBC (local amendments allowed); buildings in jurisdictions without an ordinance must be designed to it.",
    "since": "2026-07-01",
-   "source": "SD Legislature \u2014 2026 SB 129 (SDCL \u00a7\u00a711-10-5, 11-10-6)",
-   "verified": "2026-11-13"
+   "source": "SD Legislature — 2026 SB 129 (SDCL §§11-10-5, 11-10-6)",
+   "verified": "2026-11-13",
+   "source_url": "https://mylrc.sdlegislature.gov"
   },
   "TN": {
    "edition": 2021,
    "mechanism": "local",
    "name": "Tennessee statewide minimum building code",
-   "note": "Tennessee sets a statewide minimum (2021 IBC, eff. Apr 17, 2025), but local governments with their own enforcement programs adopt and enforce their own editions \u2014 the edition on a given job is the local one in much of the state. No single edition can be stated for every Tennessee job.",
+   "note": "Tennessee sets a statewide minimum (2021 IBC, eff. Apr 17, 2025), but local governments with their own enforcement programs adopt and enforce their own editions — the edition on a given job is the local one in much of the state. No single edition can be stated for every Tennessee job.",
    "since": "2025-04-17",
-   "source": "TN Dept. of Commerce & Insurance \u2014 Rule Ch. 0780-02-02 (filed Jan 17, 2025)",
-   "verified": "2026-11-13"
+   "source": "TN Dept. of Commerce & Insurance — Rule Ch. 0780-02-02 (filed Jan 17, 2025)",
+   "verified": "2026-11-13",
+   "source_url": "https://publications.tnsosfiles.com/rules_filings/01-17-25.pdf"
   },
   "TX": {
    "edition": 2012,
    "mechanism": "local",
-   "name": "Texas municipal commercial code (Loc. Gov't Code \u00a7214.216)",
-   "note": "Section 214.216 makes the 2012 IBC the municipal commercial code floor, but Texas cities adopt and enforce their own editions and most large cities are on much newer codes. The edition on a given job is the city's \u2014 no single edition can be stated.",
+   "name": "Texas municipal commercial code (Loc. Gov't Code §214.216)",
+   "note": "Section 214.216 makes the 2012 IBC the municipal commercial code floor, but Texas cities adopt and enforce their own editions and most large cities are on much newer codes. The edition on a given job is the city's — no single edition can be stated.",
    "since": "2022-01-01",
-   "source": "Texas Legislature \u2014 Loc. Gov't Code \u00a7214.216; TDLR Industrialized Housing & Buildings",
-   "verified": "2026-11-13"
+   "source": "Texas Legislature — Loc. Gov't Code §214.216; TDLR Industrialized Housing & Buildings",
+   "verified": "2026-11-13",
+   "source_url": "https://www.tdlr.texas.gov/ihb/codes.htm"
   },
   "UT": {
    "edition": 2024,
    "mechanism": "statewide",
    "name": "Utah State Construction Code",
    "since": "2026-07-01",
-   "source": "Utah Legislature \u2014 Utah Code \u00a715A-2-103 (H.B. 65, 2026)",
-   "verified": "2026-11-13"
+   "source": "Utah Legislature — Utah Code §15A-2-103 (H.B. 65, 2026)",
+   "verified": "2026-11-13",
+   "source_url": "https://le.utah.gov/xcode/Title15A/Chapter2/C15A-2-S103_2026050620270101.pdf"
   },
   "VA": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Virginia Uniform Statewide Building Code",
    "since": "2024-01-18",
-   "source": "VA Dept. of Housing & Community Development \u2014 Codes",
-   "verified": "2026-11-13"
+   "source": "VA Dept. of Housing & Community Development — Codes",
+   "verified": "2026-11-13",
+   "source_url": "https://www.dhcd.virginia.gov"
   },
   "VT": {
    "edition": 2021,
@@ -443,7 +491,8 @@
    "note": "Applies to public buildings (20 V.S.A. Ch. 173).",
    "since": "2025-11-04",
    "source": "VT Dept. of Public Safety, Div. of Fire Safety",
-   "verified": "2026-11-13"
+   "verified": "2026-11-13",
+   "source_url": "https://firesafety.vermont.gov"
   },
   "WA": {
    "edition": 2021,
@@ -454,18 +503,20 @@
     "effective": "2027-05-03",
     "status": "scheduled"
    },
-   "note": "The May 3, 2027 date is the SBCC's announced schedule (CR-102 filed May 6, 2026); the final adoption filing for the IBC chapter had not been separately confirmed when this was verified \u2014 the date is scheduled, not final.",
+   "note": "The May 3, 2027 date is the SBCC's announced schedule (CR-102 filed May 6, 2026); the final adoption filing for the IBC chapter had not been separately confirmed when this was verified — the date is scheduled, not final.",
    "since": "2024-03-15",
-   "source": "WA State Building Code Council \u2014 State Codes (ch. 51-50 WAC)",
-   "verified": "2026-11-13"
+   "source": "WA State Building Code Council — State Codes (ch. 51-50 WAC)",
+   "verified": "2026-11-13",
+   "source_url": "https://sbcc.wa.gov/state-codes-regulations-guidelines"
   },
   "WI": {
    "edition": 2021,
    "mechanism": "statewide",
    "name": "Wisconsin Commercial Building Code",
    "since": "2025-09-01",
-   "source": "WI Dept. of Safety & Professional Services \u2014 SPS 361-366; Fall 2025 Newsletter",
-   "verified": "2026-11-13"
+   "source": "WI Dept. of Safety & Professional Services — SPS 361-366; Fall 2025 Newsletter",
+   "verified": "2026-11-13",
+   "source_url": "https://dsps.wi.gov"
   },
   "WV": {
    "edition": 2018,
@@ -473,8 +524,9 @@
    "name": "West Virginia State Building Code",
    "note": "The state sets the edition; enforcement is by adopting local jurisdictions.",
    "since": "2022-08-01",
-   "source": "WV State Fire Commission \u2014 Title 87 Series 4 (87CSR4)",
-   "verified": "2026-11-13"
+   "source": "WV State Fire Commission — Title 87 Series 4 (87CSR4)",
+   "verified": "2026-11-13",
+   "source_url": "https://firemarshal.wv.gov"
   },
   "WY": {
    "edition": null,
@@ -482,9 +534,10 @@
    "name": null,
    "note": "Wyoming has no single statewide building code; adoption and enforcement are local.",
    "since": null,
-   "source": "WY Dept. of Fire Prevention & Electrical Safety \u2014 Rules Ch. 1",
-   "verified": "2026-11-13"
+   "source": "WY Dept. of Fire Prevention & Electrical Safety — Rules Ch. 1",
+   "verified": "2026-11-13",
+   "source_url": "https://wsfm.wyo.gov/fire-prevention/plan-review"
   }
  },
- "version": 1
+ "version": 2
 }
