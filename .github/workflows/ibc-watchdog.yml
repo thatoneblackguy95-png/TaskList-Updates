@@ -1,0 +1,43 @@
+name: IBC data watchdog
+
+# Monthly guardian for the Task List building-code dataset
+# (ibc_codes.json in this repo). It re-fetches every row's
+# primary source, records the grade per row, and DOWNGRADES
+# any row whose source fails twice in a row -- the app then
+# states nothing for that row instead of something stale.
+# It never edits a row's facts and never restores a
+# downgrade; that takes a human re-verification. Runs
+# entirely on GitHub: no Apollo, no Muse account.
+
+on:
+  schedule:
+    - cron: "0 14 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Re-check every IBC source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/ibc_watchdog.py
+      - name: Commit watchdog state (and any downgrades)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ibc_codes.json tools/ibc_watchdog_state.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "IBC watchdog: monthly source re-check"
+            git push
+          fi

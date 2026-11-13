@@ -1,0 +1,287 @@
+{
+ "rows": {
+  "AK": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "AL": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "AR": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "AZ": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "CA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "CO": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "CT": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "DC": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "DE": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "FL": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "GA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "HI": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports",
+   "pc": [
+    2021
+   ]
+  },
+  "IA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "ID": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "IL": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "IN": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports",
+   "pc": [
+    2024
+   ]
+  },
+  "KS": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "KY": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "LA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "MA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "MD": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports",
+   "pc": [
+    2024
+   ]
+  },
+  "ME": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "MI": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "MN": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive",
+   "pc": [
+    2024
+   ]
+  },
+  "MO": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "MS": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "MT": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NC": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "ND": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NE": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NH": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NJ": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NM": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "NV": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "NY": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "OH": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports",
+   "pc": [
+    2024
+   ]
+  },
+  "OK": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "OR": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "PA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "RI": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "SC": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "SD": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "TN": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "TX": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive",
+   "pc": [
+    2015
+   ]
+  },
+  "UT": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "VA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "VT": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "blocked"
+  },
+  "WA": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "WI": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "WV": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "WY": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  },
+  "GA|Locust Grove": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "supports"
+  },
+  "SC|Spartanburg": {
+   "fails": 0,
+   "last": "2026-11-13",
+   "grade": "alive"
+  }
+ }
+}
