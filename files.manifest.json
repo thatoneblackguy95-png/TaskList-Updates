@@ -1,8 +1,8 @@
 {
  "files": {
   "Task List.exe": {
-   "sha256": "019aa65ef1068d438b21279fa49901239e850bead4cc548272686802184ba39c",
-   "size": 3287552
+   "sha256": "6189c8e834b892f6258235bc02f4a2825c4c57b1c5e763920ab191dda67074de",
+   "size": 3289600
   },
   "host/Task List.exe": {
    "sha256": "93f3c3976f955b944014cced8d7f3a71e632b121c1c2c7e9110e795f311512dc",
@@ -17,8 +17,8 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "a0242733a6f388f91677b204c86df8cc2ab9a39e6f0cfe646091bd27d8b06944",
-   "size": 160005
+   "sha256": "63c00ed2e968019a70ff72af569ab21aa610faddf4d4201897e6e0cb8b21c727",
+   "size": 163944
   },
   "tasklist/apply_update.py": {
    "sha256": "e8d49bb086c79da535e2ead616887a9c4d5a9c54542b8bdabd2b9f406173b863",
@@ -129,8 +129,8 @@
    "size": 4195
   },
   "tasklist/taskbar.py": {
-   "sha256": "ae6d2e054c6e94c374c826ce410dcb039a1cea2bfe737ee7843d9eab71399d69",
-   "size": 46873
+   "sha256": "cc77b3f48ce96c691c252a53465e87df06e42fd6d0fb99dc0dd052665a292db4",
+   "size": 48585
   },
   "tasklist/themes.py": {
    "sha256": "554e92deb8925abe39a70438d58ac02ba88e21caa79bc69d3f54d97e92c1c85d",
@@ -141,25 +141,25 @@
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "19a25d24252c9d247b7edb63d607d14210666fa2810cdf0c0dc4dae6b7d9c604",
-   "size": 1080668
+   "sha256": "6d7e7f2b7ba146fc406b24cae5879d0d9a8171a8df534f3a507971264af09a9b",
+   "size": 1085718
   },
   "tasklist/updater.py": {
-   "sha256": "4e825fdca24ebed721abaa3bda7852cfe10dc2dab84b223c3ee5ee4285cf179a",
-   "size": 12703
+   "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
+   "size": 17631
   },
   "tasklist/winsnap.py": {
    "sha256": "6aaf671908afbc961e7c00a2342f9d2e3839a72abcebe2c6e675810feb569eaa",
    "size": 12107
   },
   "version.txt": {
-   "sha256": "624fd023b136de8e19982aba471c87a1d4350f1f9330ec03fd700d6a49a6c6da",
-   "size": 6
+   "sha256": "e63cbbfc0395cb815f7923eb27f980e2f84a34b0a914708e00f76b5b9b33079f",
+   "size": 7
   }
  },
  "python": {
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.71"
+ "version": "1.9.72"
 }
