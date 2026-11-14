@@ -17,8 +17,8 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "81b55ee43a62e7a7b2c5b28e0c1c4485e4242a134c80b7ebf21c60b505199c46",
-   "size": 153271
+   "sha256": "a0242733a6f388f91677b204c86df8cc2ab9a39e6f0cfe646091bd27d8b06944",
+   "size": 160005
   },
   "tasklist/apply_update.py": {
    "sha256": "e8d49bb086c79da535e2ead616887a9c4d5a9c54542b8bdabd2b9f406173b863",
@@ -35,6 +35,10 @@
   "tasklist/assets/check_mark.png": {
    "sha256": "56be8e75931e86595f060369d1a432b0040d47ec611fb18cfbbc2971e3ab8fde",
    "size": 131
+  },
+  "tasklist/assets/check_mark.svg": {
+   "sha256": "df60fbb7ff7601235e84aaf956e05b2531dd1641d2697dd671028b3f0dab4605",
+   "size": 212
   },
   "tasklist/assets/chev_down_dark.png": {
    "sha256": "8f26d8538cb8036653cff22aafd252c67b188bc5d904918b8b87a19260e22c00",
@@ -65,16 +69,16 @@
    "size": 11971
   },
   "tasklist/dashboard.py": {
-   "sha256": "78d76235e2f40f26c487b25e1a8d30764c0915af8bb3e7cfefa017c6905c99d2",
-   "size": 151514
+   "sha256": "818b8f9b16691172cb08d01fcae78776d2009633fc2205d0deaf24a48b3230ba",
+   "size": 153781
   },
   "tasklist/datahome.py": {
-   "sha256": "0d8d0baf5efe85a276b2c5be4be1cd01491b6f7e3c5327d19fd0440a0cc2c50c",
-   "size": 6914
+   "sha256": "cf342c84b256517a6fd399207526a1a8b2ceb24a3487eee62227fd4de9d896ec",
+   "size": 17874
   },
   "tasklist/db.py": {
-   "sha256": "f59383391a626a38cd4642e541df3076759c582d9f91a27ae4560a5b1f6fb7bf",
-   "size": 142453
+   "sha256": "817419c8515cc560f69bc24356cbe4bd19431cec9ded28602482af97367197cb",
+   "size": 143412
   },
   "tasklist/embedded_icon.py": {
    "sha256": "6e24dab606b1ad04957245f54423963c0622878f150cd84ac947bec02c56869f",
@@ -85,8 +89,8 @@
    "size": 3645
   },
   "tasklist/foldercache.py": {
-   "sha256": "739d2a3afdfaebd9181052c36074dac2b12cfa06bde97c1e02e811ca4db6a3eb",
-   "size": 8719
+   "sha256": "b12e1c0681b7c5acc700d5717a340f07dd4d53b5e5aa0c7e7034116bf907ae52",
+   "size": 24704
   },
   "tasklist/folders.py": {
    "sha256": "bda7415af0779a6c09d5ed52633ce2f880c1c3c2046e826ad83945d1b45062f4",
@@ -101,16 +105,20 @@
    "size": 22878
   },
   "tasklist/icons.py": {
-   "sha256": "bbd09c8e865f4f97397b766ad718cc61917a0affe96577e9d59e48c4b7f2c667",
-   "size": 8528
+   "sha256": "641600bcce73afa91807f6b6de7e3308af7041588b18134cfb8b96e3cc0dab00",
+   "size": 9803
   },
   "tasklist/offline.py": {
-   "sha256": "19f93b6c92bcec194beb6cc1d14045fa64e49e53d333ea6821723c1e64deff0c",
-   "size": 50319
+   "sha256": "545aa957e2c8b57f531c44d9544c21916dea77d6f570535beb420f06552233ec",
+   "size": 91197
   },
   "tasklist/open_in_tab.ps1": {
    "sha256": "a97a7cc0b08c3fa0d1a8621f5ddf675b1675c5e26b3ad2287d2487a5db7b57ac",
    "size": 6708
+  },
+  "tasklist/quote_import.py": {
+   "sha256": "868e708d4429cd5c5248a7888e0e3462dd943d504867d067ab55ed90cf624794",
+   "size": 7933
   },
   "tasklist/seismic.py": {
    "sha256": "45932df6c287277d38325f42b83e73574a4d2b02be113a256574f309155055d9",
@@ -125,16 +133,16 @@
    "size": 46873
   },
   "tasklist/themes.py": {
-   "sha256": "f95ac7a1364b3cb3a936a12e1f47703de5187a8f4e0310bdec41d5592c6719f5",
-   "size": 88123
+   "sha256": "554e92deb8925abe39a70438d58ac02ba88e21caa79bc69d3f54d97e92c1c85d",
+   "size": 89220
   },
   "tasklist/toast.py": {
    "sha256": "e155d75a909d7f5b3ee957c849c9b2427358027990422eb25447f259315f1897",
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "d1749ec2cbbf6288c1c54a059da15c2146438f83fcf4b98a4ffb098108ebd942",
-   "size": 1021409
+   "sha256": "19a25d24252c9d247b7edb63d607d14210666fa2810cdf0c0dc4dae6b7d9c604",
+   "size": 1080668
   },
   "tasklist/updater.py": {
    "sha256": "4e825fdca24ebed721abaa3bda7852cfe10dc2dab84b223c3ee5ee4285cf179a",
@@ -145,7 +153,7 @@
    "size": 12107
   },
   "version.txt": {
-   "sha256": "4081aa783ff16627678c0af9fff02d9a6ac670264c3b47383baacf99bd04b1db",
+   "sha256": "624fd023b136de8e19982aba471c87a1d4350f1f9330ec03fd700d6a49a6c6da",
    "size": 6
   }
  },
@@ -153,5 +161,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.70"
+ "version": "1.9.71"
 }
