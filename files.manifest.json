@@ -1,0 +1,153 @@
+{
+ "files": {
+  "Task List.exe": {
+   "sha256": "d9edacc44031cce82c3f39760da78bba21c7884b409ab4daddb1e74c1c3a1250",
+   "size": 3225600
+  },
+  "tasklist/__init__.py": {
+   "sha256": "23e928600cb3dc59b30fcea606b2b4973452ba31dd797ab2f78890aeebd47004",
+   "size": 103
+  },
+  "tasklist/__main__.py": {
+   "sha256": "1ddbb4d383544fe57107e4f42254cd0b99fece2aca66bd78bda06c306c2ee272",
+   "size": 99
+  },
+  "tasklist/app.py": {
+   "sha256": "b36bbd6f726680409962b44d6019d32ad40622a4a80618edacaf939be8af9f40",
+   "size": 153271
+  },
+  "tasklist/apply_update.py": {
+   "sha256": "e8d49bb086c79da535e2ead616887a9c4d5a9c54542b8bdabd2b9f406173b863",
+   "size": 5842
+  },
+  "tasklist/assets/Inter-Bold.ttf": {
+   "sha256": "e0b3cad6de618fb83ef2dec26499beb6011a90971090a63dcf904670e13c53ec",
+   "size": 67128
+  },
+  "tasklist/assets/Inter-Regular.ttf": {
+   "sha256": "7c7c718a62e315a83fb5b5b0b086028bae10fc153701cf0f0b168e5f5a0c28f9",
+   "size": 66912
+  },
+  "tasklist/assets/check_mark.png": {
+   "sha256": "56be8e75931e86595f060369d1a432b0040d47ec611fb18cfbbc2971e3ab8fde",
+   "size": 131
+  },
+  "tasklist/assets/chev_down_dark.png": {
+   "sha256": "8f26d8538cb8036653cff22aafd252c67b188bc5d904918b8b87a19260e22c00",
+   "size": 386
+  },
+  "tasklist/assets/chev_down_light.png": {
+   "sha256": "df0f5da3cf75e1044369149a3e5dc5a81dc2d3f7840b518478681591ed8ec91d",
+   "size": 365
+  },
+  "tasklist/assets/chev_up_dark.png": {
+   "sha256": "70287300b3702b323a8bf2c0858b17309d88d3609cf23a4a8835b81663ab987e",
+   "size": 367
+  },
+  "tasklist/assets/chev_up_light.png": {
+   "sha256": "2bf3664e5d6dd8a1cde4d80870ea7c96b4b4adc10cbe8972248401fe6396adf1",
+   "size": 350
+  },
+  "tasklist/assets/tl_icon.ico": {
+   "sha256": "3dffdf3487fda74c8c3b42b0fd3fa9e01287e9124bfee040a873119194b7504c",
+   "size": 17144
+  },
+  "tasklist/assets/tl_icon.png": {
+   "sha256": "d047e195a095c62d4112f37afcd75c8de6310164218ba058891faf47d9c34ffb",
+   "size": 5717
+  },
+  "tasklist/building_codes.py": {
+   "sha256": "7e2fb6f24a34fa63f6ce9aa6376678f20b6da60fbf6965f847011b4715222d6f",
+   "size": 11971
+  },
+  "tasklist/dashboard.py": {
+   "sha256": "78d76235e2f40f26c487b25e1a8d30764c0915af8bb3e7cfefa017c6905c99d2",
+   "size": 151514
+  },
+  "tasklist/datahome.py": {
+   "sha256": "0d8d0baf5efe85a276b2c5be4be1cd01491b6f7e3c5327d19fd0440a0cc2c50c",
+   "size": 6914
+  },
+  "tasklist/db.py": {
+   "sha256": "f59383391a626a38cd4642e541df3076759c582d9f91a27ae4560a5b1f6fb7bf",
+   "size": 142453
+  },
+  "tasklist/embedded_icon.py": {
+   "sha256": "6e24dab606b1ad04957245f54423963c0622878f150cd84ac947bec02c56869f",
+   "size": 4999
+  },
+  "tasklist/export.py": {
+   "sha256": "f2b1ace901f9e648e6cb78455cf18751797751505120e0695f095bf1ea6e51ca",
+   "size": 3645
+  },
+  "tasklist/foldercache.py": {
+   "sha256": "739d2a3afdfaebd9181052c36074dac2b12cfa06bde97c1e02e811ca4db6a3eb",
+   "size": 8719
+  },
+  "tasklist/folders.py": {
+   "sha256": "bda7415af0779a6c09d5ed52633ce2f880c1c3c2046e826ad83945d1b45062f4",
+   "size": 4851
+  },
+  "tasklist/fonts.py": {
+   "sha256": "60f6837ef86cc877667a4494b1210f6818a32ea000402bee132d6e9efe3f99f9",
+   "size": 3400
+  },
+  "tasklist/ibc_data.json": {
+   "sha256": "1b6442d5e3ff100cc6c50020d5aa96ff6a80beaa3765e2a4206bcd9b80e7367c",
+   "size": 22878
+  },
+  "tasklist/icons.py": {
+   "sha256": "bbd09c8e865f4f97397b766ad718cc61917a0affe96577e9d59e48c4b7f2c667",
+   "size": 8528
+  },
+  "tasklist/offline.py": {
+   "sha256": "19f93b6c92bcec194beb6cc1d14045fa64e49e53d333ea6821723c1e64deff0c",
+   "size": 50319
+  },
+  "tasklist/open_in_tab.ps1": {
+   "sha256": "a97a7cc0b08c3fa0d1a8621f5ddf675b1675c5e26b3ad2287d2487a5db7b57ac",
+   "size": 6708
+  },
+  "tasklist/seismic.py": {
+   "sha256": "45932df6c287277d38325f42b83e73574a4d2b02be113a256574f309155055d9",
+   "size": 10479
+  },
+  "tasklist/startup_log.py": {
+   "sha256": "983ab7cd27f027ab6933193f8af720e7583c09551f2f27d85242d38a3a92eae7",
+   "size": 4195
+  },
+  "tasklist/taskbar.py": {
+   "sha256": "ae6d2e054c6e94c374c826ce410dcb039a1cea2bfe737ee7843d9eab71399d69",
+   "size": 46873
+  },
+  "tasklist/themes.py": {
+   "sha256": "f95ac7a1364b3cb3a936a12e1f47703de5187a8f4e0310bdec41d5592c6719f5",
+   "size": 88123
+  },
+  "tasklist/toast.py": {
+   "sha256": "e155d75a909d7f5b3ee957c849c9b2427358027990422eb25447f259315f1897",
+   "size": 10797
+  },
+  "tasklist/ui.py": {
+   "sha256": "d1749ec2cbbf6288c1c54a059da15c2146438f83fcf4b98a4ffb098108ebd942",
+   "size": 1021409
+  },
+  "tasklist/updater.py": {
+   "sha256": "4e825fdca24ebed721abaa3bda7852cfe10dc2dab84b223c3ee5ee4285cf179a",
+   "size": 12703
+  },
+  "tasklist/winsnap.py": {
+   "sha256": "6aaf671908afbc961e7c00a2342f9d2e3839a72abcebe2c6e675810feb569eaa",
+   "size": 12107
+  },
+  "version.txt": {
+   "sha256": "9e727e716bcce838d013bd5f35bfa462b63340e4523adcd8163957a9309398f9",
+   "size": 7
+  }
+ },
+ "python": {
+  "count": 0,
+  "key_files": {}
+ },
+ "version": "1.9.69"
+}
