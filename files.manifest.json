@@ -1,8 +1,8 @@
 {
  "files": {
   "Task List.exe": {
-   "sha256": "6189c8e834b892f6258235bc02f4a2825c4c57b1c5e763920ab191dda67074de",
-   "size": 3289600
+   "sha256": "4a25f620a455fcbc9fa8694a1686eed9713d59958a53d2b9d231ee38c9fa2ffd",
+   "size": 3291648
   },
   "host/Task List.exe": {
    "sha256": "93f3c3976f955b944014cced8d7f3a71e632b121c1c2c7e9110e795f311512dc",
@@ -17,12 +17,12 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "63c00ed2e968019a70ff72af569ab21aa610faddf4d4201897e6e0cb8b21c727",
-   "size": 163944
+   "sha256": "1c6ad11398ec174adced8523fe0600c7b4cd2f59a61619e30d0e72de315b34b5",
+   "size": 164496
   },
   "tasklist/apply_update.py": {
-   "sha256": "e8d49bb086c79da535e2ead616887a9c4d5a9c54542b8bdabd2b9f406173b863",
-   "size": 5842
+   "sha256": "5001aa544525e07ab4dfe5c7d3d985cb3983edd780ba421e095299e2b2c35c30",
+   "size": 10465
   },
   "tasklist/assets/Inter-Bold.ttf": {
    "sha256": "e0b3cad6de618fb83ef2dec26499beb6011a90971090a63dcf904670e13c53ec",
@@ -129,8 +129,8 @@
    "size": 4195
   },
   "tasklist/taskbar.py": {
-   "sha256": "cc77b3f48ce96c691c252a53465e87df06e42fd6d0fb99dc0dd052665a292db4",
-   "size": 48585
+   "sha256": "d21adbb0018c6701a208710af0d2db0c9b24ad6770f0be409763121dbecd414d",
+   "size": 47631
   },
   "tasklist/themes.py": {
    "sha256": "554e92deb8925abe39a70438d58ac02ba88e21caa79bc69d3f54d97e92c1c85d",
@@ -141,8 +141,8 @@
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "6d7e7f2b7ba146fc406b24cae5879d0d9a8171a8df534f3a507971264af09a9b",
-   "size": 1085718
+   "sha256": "9c2deb2ca4750bc5b347239b04b9f1790877a44201b09df36170f6e207577d0d",
+   "size": 1085847
   },
   "tasklist/updater.py": {
    "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
@@ -153,7 +153,7 @@
    "size": 12107
   },
   "version.txt": {
-   "sha256": "e63cbbfc0395cb815f7923eb27f980e2f84a34b0a914708e00f76b5b9b33079f",
+   "sha256": "9f05926e84410889e81fea7a59cd436a3ea902b3c2a59b5b216ec0d540ab1c20",
    "size": 7
   }
  },
@@ -161,5 +161,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.72"
+ "version": "1.9.73"
 }
