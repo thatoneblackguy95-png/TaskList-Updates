@@ -1,8 +1,8 @@
 {
  "files": {
   "Task List.exe": {
-   "sha256": "49c7f1f6374ea4815d243cc027afcd2be2984b091411e7b6be14efda635932ea",
-   "size": 3293184
+   "sha256": "2c0daeb19ea72542ac276bbe9a91f6753c4059fa79cfb8b1a37aea88b7ea7d0e",
+   "size": 3296256
   },
   "host/Task List.exe": {
    "sha256": "93f3c3976f955b944014cced8d7f3a71e632b121c1c2c7e9110e795f311512dc",
@@ -17,8 +17,8 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "8cda5a27cb648fb307d376f6f16dbf1ce1a0528154b2a76b44a38eb508146cfe",
-   "size": 186653
+   "sha256": "32b9e7bbab2f8cfeea29a9b0dfb8441a227b8fc20759d399c945546b06acce70",
+   "size": 189243
   },
   "tasklist/apply_update.py": {
    "sha256": "5001aa544525e07ab4dfe5c7d3d985cb3983edd780ba421e095299e2b2c35c30",
@@ -141,8 +141,8 @@
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "ae57446ed49fddf2bd95373f18b17b89d781a2e32acd8eeae67dc45769e40066",
-   "size": 1226227
+   "sha256": "b96daa503a30dc083d94eece6af7ce01a845e6ad7bfaa95fd654620a8ca14bbd",
+   "size": 1238893
   },
   "tasklist/updater.py": {
    "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
@@ -153,7 +153,7 @@
    "size": 12107
   },
   "version.txt": {
-   "sha256": "51526adc8eb9406379638f23a8ebd083cae2d28cd33b1f987617b50bc41db570",
+   "sha256": "7675bdfe695643de5ff2919dd2b187c3146420c493bf31d16422d2e750e9ffe0",
    "size": 7
   }
  },
@@ -161,5 +161,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.76"
+ "version": "1.9.77"
 }
