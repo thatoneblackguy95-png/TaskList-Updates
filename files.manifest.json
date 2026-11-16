@@ -1,8 +1,8 @@
 {
  "files": {
   "Task List.exe": {
-   "sha256": "4a25f620a455fcbc9fa8694a1686eed9713d59958a53d2b9d231ee38c9fa2ffd",
-   "size": 3291648
+   "sha256": "49c7f1f6374ea4815d243cc027afcd2be2984b091411e7b6be14efda635932ea",
+   "size": 3293184
   },
   "host/Task List.exe": {
    "sha256": "93f3c3976f955b944014cced8d7f3a71e632b121c1c2c7e9110e795f311512dc",
@@ -17,8 +17,8 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "77692a45c54bb09e8a3debb7c5d981573e8c4bd8dadd3cda92ce91a9cda41ab8",
-   "size": 183155
+   "sha256": "8cda5a27cb648fb307d376f6f16dbf1ce1a0528154b2a76b44a38eb508146cfe",
+   "size": 186653
   },
   "tasklist/apply_update.py": {
    "sha256": "5001aa544525e07ab4dfe5c7d3d985cb3983edd780ba421e095299e2b2c35c30",
@@ -73,8 +73,8 @@
    "size": 154168
   },
   "tasklist/datahome.py": {
-   "sha256": "ae154a5c6bc73e18f8296ef1cc9ac05fc211c17a4e2a2d77af730db46fa60e4a",
-   "size": 19261
+   "sha256": "cdea2335a9e2ef9a408bf13ab1c265186918dd5a6df7fbc12a94d0900481bc79",
+   "size": 20257
   },
   "tasklist/db.py": {
    "sha256": "58fc21373be79c7f663440a4cd86406142b096223fabe92b62c5a69561498c56",
@@ -105,12 +105,12 @@
    "size": 22878
   },
   "tasklist/icons.py": {
-   "sha256": "5580daeb8451ca8da9a38d583e6c2898baf224463c2b956a67bbf37ae27390dc",
-   "size": 11731
+   "sha256": "507b768f6f27484972130486d60f0bd0274a5b42367825f5266ef17fd66e7aa4",
+   "size": 12443
   },
   "tasklist/offline.py": {
-   "sha256": "545aa957e2c8b57f531c44d9544c21916dea77d6f570535beb420f06552233ec",
-   "size": 91197
+   "sha256": "1e5a0526c0042bf20596c15129095590449720c5c157017e11aa7ed1f124d271",
+   "size": 96204
   },
   "tasklist/open_in_tab.ps1": {
    "sha256": "a97a7cc0b08c3fa0d1a8621f5ddf675b1675c5e26b3ad2287d2487a5db7b57ac",
@@ -133,16 +133,16 @@
    "size": 47631
   },
   "tasklist/themes.py": {
-   "sha256": "5aa9f707b034926ca79a12e90d5a1446d4c6ade8d45de162717cd6b284beb2a8",
-   "size": 95196
+   "sha256": "ba05cbca57a794d228b8611066f518c161ab4dc3682e7a648822939da44a4f0d",
+   "size": 100331
   },
   "tasklist/toast.py": {
    "sha256": "e155d75a909d7f5b3ee957c849c9b2427358027990422eb25447f259315f1897",
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "07d144fbcdffab7b70f44e6a850d0830d957856ab327294a4599faeaf2c6a7df",
-   "size": 1185460
+   "sha256": "ae57446ed49fddf2bd95373f18b17b89d781a2e32acd8eeae67dc45769e40066",
+   "size": 1226227
   },
   "tasklist/updater.py": {
    "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
@@ -153,7 +153,7 @@
    "size": 12107
   },
   "version.txt": {
-   "sha256": "82f5c13ee2c063afd6a28511fa15e5f1ce1eaa7d7f7e7fcc6f891fab57a13d9e",
+   "sha256": "51526adc8eb9406379638f23a8ebd083cae2d28cd33b1f987617b50bc41db570",
    "size": 7
   }
  },
@@ -161,5 +161,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.75"
+ "version": "1.9.76"
 }
