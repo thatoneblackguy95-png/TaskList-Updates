@@ -1,12 +1,12 @@
 {
  "files": {
   "Task List.exe": {
-   "sha256": "2c0daeb19ea72542ac276bbe9a91f6753c4059fa79cfb8b1a37aea88b7ea7d0e",
-   "size": 3296256
+   "sha256": "86687ad5d16919cb6dad6a765ae0e1ff1771d110751b3692b677f211f38bcaee",
+   "size": 3300352
   },
   "host/Task List.exe": {
-   "sha256": "93f3c3976f955b944014cced8d7f3a71e632b121c1c2c7e9110e795f311512dc",
-   "size": 153501
+   "sha256": "86e2f457bcc3405e24f6f293640cad90965ce510dfa698643c409796439c2cc4",
+   "size": 153923
   },
   "tasklist/__init__.py": {
    "sha256": "23e928600cb3dc59b30fcea606b2b4973452ba31dd797ab2f78890aeebd47004",
@@ -17,8 +17,8 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "ec91030c5c27e7ca1ff5c08a552bf688bb1bab58a3c9565001fd24b1deb06be8",
-   "size": 206505
+   "sha256": "3888054b5a33f54e4232d13d532489cc300b8da8533f618b6c839272b0c7d86a",
+   "size": 228784
   },
   "tasklist/apply_update.py": {
    "sha256": "5001aa544525e07ab4dfe5c7d3d985cb3983edd780ba421e095299e2b2c35c30",
@@ -69,16 +69,16 @@
    "size": 12745
   },
   "tasklist/dashboard.py": {
-   "sha256": "f6118057916d6375b56411b5ca3802d5bd3e5ea444d21a6214064fc3c05baba2",
-   "size": 154168
+   "sha256": "a56c85f2551f7edf40009ddf57d40bcbe9677d7f04284d70bdae8eb0b8fcda70",
+   "size": 188993
   },
   "tasklist/datahome.py": {
-   "sha256": "cdea2335a9e2ef9a408bf13ab1c265186918dd5a6df7fbc12a94d0900481bc79",
-   "size": 20257
+   "sha256": "b5e3ec218e615609d112933e5a1f3f22df38b2fcaed175d9a309a1f9792f67f1",
+   "size": 23690
   },
   "tasklist/db.py": {
-   "sha256": "6441403a7d8a270d526f1d554a339e2f3025b5468ba3d9e0ea2f4de62cc09d4e",
-   "size": 150846
+   "sha256": "35e6a98f6ffaeab7dd659c0e6a5277a4768da88d58028c3b25da8d5306ea3dde",
+   "size": 153551
   },
   "tasklist/embedded_icon.py": {
    "sha256": "6e24dab606b1ad04957245f54423963c0622878f150cd84ac947bec02c56869f",
@@ -109,8 +109,8 @@
    "size": 12443
   },
   "tasklist/offline.py": {
-   "sha256": "1e5a0526c0042bf20596c15129095590449720c5c157017e11aa7ed1f124d271",
-   "size": 96204
+   "sha256": "832118f3ca9a71e8f0090547da6605048da32719587a7aa53220964ba6c9fab4",
+   "size": 97294
   },
   "tasklist/open_in_tab.ps1": {
    "sha256": "a97a7cc0b08c3fa0d1a8621f5ddf675b1675c5e26b3ad2287d2487a5db7b57ac",
@@ -119,6 +119,10 @@
   "tasklist/quote_import.py": {
    "sha256": "868e708d4429cd5c5248a7888e0e3462dd943d504867d067ab55ed90cf624794",
    "size": 7933
+  },
+  "tasklist/relaunch_wait.py": {
+   "sha256": "e1d4c605b9d48c272848181f6ad7e6d2e0846d447017c388e57d0e305a44202e",
+   "size": 6001
   },
   "tasklist/seismic.py": {
    "sha256": "45932df6c287277d38325f42b83e73574a4d2b02be113a256574f309155055d9",
@@ -129,31 +133,31 @@
    "size": 4195
   },
   "tasklist/taskbar.py": {
-   "sha256": "d21adbb0018c6701a208710af0d2db0c9b24ad6770f0be409763121dbecd414d",
-   "size": 47631
+   "sha256": "da1b7210d68d52a90c99f9465460a321d1e1dc7534885cf91a7a3d7ee29cb48a",
+   "size": 50407
   },
   "tasklist/themes.py": {
-   "sha256": "78e17f1e8f7be77df7595570bef282f3357e836db9d30a0847c5370ea5476ff4",
-   "size": 102769
+   "sha256": "11b15fd572f1e8aa08a8f3f77ff0d98ca17103bbc9d2e18648862d6d4ca80d77",
+   "size": 115770
   },
   "tasklist/toast.py": {
    "sha256": "e155d75a909d7f5b3ee957c849c9b2427358027990422eb25447f259315f1897",
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "85c5cdea21c475af6ab9acf8014025f3813b6c759e81d44f4af39be1cc3ed130",
-   "size": 1276760
+   "sha256": "363899504eff8f9681bccd4b473d1949b692aba231888fdd1fb0f5b2eef8780e",
+   "size": 1346943
   },
   "tasklist/updater.py": {
    "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
    "size": 17631
   },
   "tasklist/winsnap.py": {
-   "sha256": "6aaf671908afbc961e7c00a2342f9d2e3839a72abcebe2c6e675810feb569eaa",
-   "size": 12107
+   "sha256": "840cc2bd395f8eabfbc202ed721f16f53a40b24ee610b0116fcd725bb21f82f9",
+   "size": 3255
   },
   "version.txt": {
-   "sha256": "50e3f28577227aef5d770f182867fabc4105d12eb369dcf48c27be44e4fd83f2",
+   "sha256": "768c35718870b4e37026a4822a54ce6617c0d6d8ab78e173f0e37041abbf9c01",
    "size": 7
   }
  },
@@ -161,5 +165,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.78"
+ "version": "1.9.80"
 }
