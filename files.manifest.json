@@ -17,7 +17,7 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "c56cd6c6903ba789752a0adb49dd20f3ff0c7727ac01068d54aa0e05df7f8e00",
+   "sha256": "d33bb3628ff0c8a19942303c3480606983fe5d711640aef11f4894dd5646dbf4",
    "size": 232424
   },
   "tasklist/apply_update.py": {
@@ -145,8 +145,8 @@
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "0744a0e8460f4a5d808bd4812e4927764ecc0f7998f5b03186725c4475f7e204",
-   "size": 1390791
+   "sha256": "f176ee8ed970b4f2a3832d6763f7ecc881d500977e8cb9e6d37f51ad517a37a8",
+   "size": 1391914
   },
   "tasklist/updater.py": {
    "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
@@ -157,7 +157,7 @@
    "size": 3255
   },
   "version.txt": {
-   "sha256": "6b6f193dc767401d47a2812f70771e855f38ba37f1361847f7ccf3783e2f272d",
+   "sha256": "8f1688611560adabbc18fe39b1ad656733a2fd964846af9f1933e73e450d1e9b",
    "size": 7
   }
  },
@@ -165,5 +165,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.82"
+ "version": "1.9.83"
 }
