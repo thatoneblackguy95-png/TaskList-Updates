@@ -1,8 +1,12 @@
 {
  "files": {
+  "Task List.bat": {
+   "sha256": "9e68265509437cc8592b03e5dc7ccc51bf6d3242c979b046baaae371a3d39967",
+   "size": 13024
+  },
   "Task List.exe": {
-   "sha256": "86687ad5d16919cb6dad6a765ae0e1ff1771d110751b3692b677f211f38bcaee",
-   "size": 3300352
+   "sha256": "f215135bdc2467517c6c569d9d17392167260c5587ab7723d9c9a4a703da17ba",
+   "size": 3355648
   },
   "host/Task List.exe": {
    "sha256": "86e2f457bcc3405e24f6f293640cad90965ce510dfa698643c409796439c2cc4",
@@ -17,12 +21,12 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "d33bb3628ff0c8a19942303c3480606983fe5d711640aef11f4894dd5646dbf4",
-   "size": 232424
+   "sha256": "56ea1bdf47fb9e81f3625d23dc08258b1c4e951d07c4342a6742bb922b2ed020",
+   "size": 233436
   },
   "tasklist/apply_update.py": {
-   "sha256": "5001aa544525e07ab4dfe5c7d3d985cb3983edd780ba421e095299e2b2c35c30",
-   "size": 10465
+   "sha256": "c00d09d608744055675291a6d66446fc90643c24563a89be2472754296d8e85d",
+   "size": 38009
   },
   "tasklist/assets/Inter-Bold.ttf": {
    "sha256": "e0b3cad6de618fb83ef2dec26499beb6011a90971090a63dcf904670e13c53ec",
@@ -157,7 +161,7 @@
    "size": 3255
   },
   "version.txt": {
-   "sha256": "8f1688611560adabbc18fe39b1ad656733a2fd964846af9f1933e73e450d1e9b",
+   "sha256": "63fcef63197273db1c726b6e36f71152369add0cbd6e98f70807d1681d784e19",
    "size": 7
   }
  },
@@ -165,5 +169,5 @@
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.83"
+ "version": "1.9.84"
 }
