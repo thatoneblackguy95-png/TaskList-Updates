@@ -21,12 +21,12 @@
    "size": 99
   },
   "tasklist/app.py": {
-   "sha256": "1c35fd48d4b9b4bd7f52567e96deeac074e630657736b5a7c80e3f48a28c26bf",
-   "size": 233436
+   "sha256": "c3988d1b748843f430e17d8d0ae27331555f173196e5fed9a69b720e2c2f2773",
+   "size": 235010
   },
   "tasklist/apply_update.py": {
-   "sha256": "c00d09d608744055675291a6d66446fc90643c24563a89be2472754296d8e85d",
-   "size": 38009
+   "sha256": "96e05c5ecf128b6decc629e93621072511634c856f9f5282d184898e260d0bb7",
+   "size": 41812
   },
   "tasklist/assets/Inter-Bold.ttf": {
    "sha256": "e0b3cad6de618fb83ef2dec26499beb6011a90971090a63dcf904670e13c53ec",
@@ -97,8 +97,8 @@
    "size": 25057
   },
   "tasklist/folders.py": {
-   "sha256": "1812ed513eb88571c4a6ade9be28aa3bffc2753cdb573c6d38b62cddb2598f48",
-   "size": 5974
+   "sha256": "2a8b9d11d0a8624a76b2398db56a8e93efd19c2462098e23938dc0d20c205355",
+   "size": 15951
   },
   "tasklist/fonts.py": {
    "sha256": "60f6837ef86cc877667a4494b1210f6818a32ea000402bee132d6e9efe3f99f9",
@@ -149,25 +149,25 @@
    "size": 10797
   },
   "tasklist/ui.py": {
-   "sha256": "f176ee8ed970b4f2a3832d6763f7ecc881d500977e8cb9e6d37f51ad517a37a8",
-   "size": 1391914
+   "sha256": "3ee213c3fcc3e5837661164398e9d94d97b06c6b468fc8870b175502cda762b2",
+   "size": 1400734
   },
   "tasklist/updater.py": {
-   "sha256": "3ac47821157a273a85996f4b6a276e3b564f9f40159d318d231434f96b7549d4",
-   "size": 17631
+   "sha256": "a527245da1d09ff5006bc5cd87e07d986f65209769c0599817681a7a3bcf3a17",
+   "size": 18619
   },
   "tasklist/winsnap.py": {
    "sha256": "840cc2bd395f8eabfbc202ed721f16f53a40b24ee610b0116fcd725bb21f82f9",
    "size": 3255
   },
   "version.txt": {
-   "sha256": "3afed9ffe8aca44236ed6186446348aff904376dea71bcdbf707ecb56ee317ac",
-   "size": 8
+   "sha256": "b93d6bbf753d4a15ece6d5a926a81e6c040499592829ae73d3f5304d05826048",
+   "size": 7
   }
  },
  "python": {
   "count": 0,
   "key_files": {}
  },
- "version": "1.9.85"
+ "version": "1.9.86"
 }
